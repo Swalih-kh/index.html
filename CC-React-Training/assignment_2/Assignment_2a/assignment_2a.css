@@ -1,0 +1,52 @@
+.flex-container {
+    display: flex;
+    background-color:#c2b9b0;
+}
+      
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:monospace;
+
+  }
+
+  h1 {
+    color: navy;
+    margin-left: 20px;
+    background-color:#c2b9b0;
+    
+    text-align: center;     
+    font-family: "Arial";
+
+  }
+  body {
+    background-color:#c2cad0
+  }
+  h2 ,h3{
+    font-family:monospace;
+    color:blueviolet;
+  }
+  p,ol {
+    font-family: "Arial";
+    color:#1F2833;
+  }
+  footer {
+    color:black;
+    font-style: italic;
+  }
+span{
+   color:blue;
+    font-style: italic;
+    font-weight: bold;
+}
+article{
+  font-family:monospace;
+  color:black;
+  
+  
+}
+ 
